@@ -1,5 +1,5 @@
 Hello! This is my first Git project.
-I am learning Git on the main branch.
+I am learning Git on both main and feature branches.
 I am a CSE student exploring Git.
 I am exploring Git and GitHub!
 I am now learning Git branches!
