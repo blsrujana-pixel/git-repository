@@ -2,3 +2,4 @@ Hello! This is my first Git project.
 I am learning version control.
 I am a CSE student exploring Git.
 I am exploring Git and GitHub!
+I am now learning Git branches!
