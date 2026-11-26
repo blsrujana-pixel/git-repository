@@ -4,3 +4,4 @@ I am a CSE student exploring Git.
 I am exploring Git and GitHub!
 I am now learning Git branches!
 I am learning how to unstage files in Git.
+I am learning Git stash today.
